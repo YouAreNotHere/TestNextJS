@@ -1,4 +1,5 @@
 const Page = () => {
+
     return (
         <p>Customers page</p>
     )
